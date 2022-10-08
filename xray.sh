@@ -1,6 +1,6 @@
 #!/bin/sh
 if [ ! -f UUID ]; then
-  UUID="8dd21875-9a65-405b-8fab-40989f703898"
+  UUID="-412b-038989--3185-09fl"  //221008 no 可以 用
 fi
 
 # Set config.json
