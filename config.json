@@ -3,7 +3,7 @@
       "loglevel":"warning",
       "access":"/var/log/xray/access.log",
       "error":"/var/log/xray/error.log"
-   },
+   },  //   delete log..
    "inbounds": [{
         "port": 8080,
         "protocol": "vmess",
